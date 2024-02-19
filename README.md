@@ -1,4 +1,3 @@
-# .github
 Computer Forensics Lab Profile: 
 
 <strong>MAIN AREA OF EXPERTISE:</strong>
