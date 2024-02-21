@@ -5,6 +5,8 @@ Computer Forensics Lab Profile:
 Computer Forensics Lab is a major provider of computer forensics services in UK. Our digital forensic experts recover, analyse and present digital evidence stored in mobile phones and computers which can assist law firms, local government, company directors and private individuals in legal matters involving family law, disputes, safeguarding, copyright violations and compliance issues. Computer Forensics Lab experts identify, discover, recover and analyse digital evidence from all types digital devices such as computers, networks, mobiles phones, hard drives, memory sticks, memory cards, audio and video recorders, CCTV cameras, cloud computers and virtualised environments.  We can uncover digital evidence in all cases related to fraud, information theft, network intrusion, employee internet abuse, cybercrime and other computer security breaches.
 The company blog can be found here: https://computerforensicslab.co.uk/investigators-blog/ 
 
+![Computer Fraud Investigations](https://github.com/computerforensicslab/.github/assets/5429757/39a8bf23-231f-4381-a544-5f033ee23ad3)
+
 <strong>DIGITAL FORENSICS RESEARCH & DEVELOPMENT:</strong>
 
 Cyber Forensics Research Group (CFRG), part of Computer Forensics Lab in also conducts research into current methods of digital forensics examinations with a focus on training experts and developing tools and best practice frameworks in acquiring, analysing and examining digital artefacts stored in computers, phones, embedded systems as well as IoT devices such as drones, cars and smart household and business appliances.
