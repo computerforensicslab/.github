@@ -13,6 +13,10 @@ Cyber Forensics Research Group (CFRG), part of Computer Forensics Lab in also co
 
 <strong>ADDITIONAL PROFESSIONAL SERVICES:</strong>
 
-Advanced data recovery services for business and private customers in London, UK. Physically and electronically faulty hard drive recovery services with over 97.5% success rate since 2002. Specialist data recovery services from all digital media including external and internal hard drives, memory sticks, SSDs, iMacs, iPads, Surface Pros, RAID arrays, faulty iPhones and Android handsets and CCTVs. Successful data recovery from water or fire-damaged devices such as mobile phones, laptops and memory sticks. No-data recovery, no-fee data recovery policy with customer satisfaction guaranteed for all customers. The data recovery website can be found here: http://datarecovery.london/
+Advanced data recovery services for business and private customers in London, UK. Physically and electronically faulty hard drive recovery services with over 97.5% success rate since 2002.
+
+![datarecovery london](https://github.com/computerforensicslab/.github/assets/5429757/19a53788-6fa4-4b66-bba2-52c5f0e33a22)
+
+Specialist data recovery services from all digital media including external and internal hard drives, memory sticks, SSDs, iMacs, iPads, Surface Pros, RAID arrays, faulty iPhones and Android handsets and CCTVs. Successful data recovery from water or fire-damaged devices such as mobile phones, laptops and memory sticks. No-data recovery, no-fee data recovery policy with customer satisfaction guaranteed for all customers. The data recovery website can be found here: http://datarecovery.london/
 
 *** [Learn How Markdown Works](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
